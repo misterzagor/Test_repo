@@ -1,1 +1,2 @@
-Ovo je druo testiranje
+Ovo je drugo testiranje
+Ovo je izmena fajla
